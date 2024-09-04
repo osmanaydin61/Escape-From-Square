@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - climbing
+  - player
+  - background
+  - mushroms
+  - enemies
+  - hazards
+  - bullet
+  - exit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2835609219
+    locked: 0
+  - name: hazards
+    uniqueID: 1752172443
+    locked: 0
+  - name: platforms
+    uniqueID: 3431873759
+    locked: 0
+  - name: water
+    uniqueID: 2896620347
+    locked: 0
+  - name: Selin (Enemy)
+    uniqueID: 1589063791
+    locked: 0
+  - name: osman (player)
+    uniqueID: 2034838911
+    locked: 0
